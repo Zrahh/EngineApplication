@@ -1,0 +1,16 @@
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\bin\Debug\EngineApplication.exe
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\bin\Debug\EngineApplication.pdb
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.MainForm.resources
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.Properties.Resources.resources
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.exe
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.pdb
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.csprojResolveAssemblyReference.cache
+E:\CONGVIEC\DAY LAP TRINH ARCGIS\Code demo\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.csproj.GenerateResource.Cache
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.exe
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.pdb
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\bin\Debug\EngineApplication.exe
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\bin\Debug\EngineApplication.pdb
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.csprojResolveAssemblyReference.cache
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.MainForm.resources
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.Properties.Resources.resources
+C:\Users\左岸\Downloads\EngineApplication\EngineApplication\obj\x86\Debug\EngineApplication.csproj.GenerateResource.Cache
